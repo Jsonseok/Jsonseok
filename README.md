@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Java?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 
 <!--
 **Jsonseok/Jsonseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
