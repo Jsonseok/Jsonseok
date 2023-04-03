@@ -1,11 +1,11 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337363641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/112038669/229645477-963d7db7-bcee-435a-abfb-113a3ae01299.svg)
 <!--
 **Jsonseok/Jsonseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337363641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/112038669/229645477-963d7db7-bcee-435a-abfb-113a3ae01299.svg)
+
 
 📱
 - 🔭 I’m currently working on ...
