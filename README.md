@@ -20,17 +20,15 @@
 
 📫 Project
 
-<a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/Object_Detection-Chest_Xray_detection-blue"/>  
-  
-<a href="https://github.com/Jsonseok/Predict_Metastasis_of_Breast_Cancer"><img src="https://img.shields.io/badge/Multi_Modal-Predict_Metastasis_of_Breast_Cancer-blue"/> 
-  
-<a href="https://github.com/Jsonseok/Jeju_Dialect_Translation"><img src="https://img.shields.io/badge/NLP-Jeju_Dialect_Translation-blue"/>  
+<a href="https://github.com/Jsonseok/Naver_Webtoon_Image_Classification"><img src="https://img.shields.io/badge/Image_Classification-Naver_Webtoon_Image_Classification-blue"/>
   
 <a href="https://github.com/Jsonseok/Fire-Smoke_Detection_Project"><img src="https://img.shields.io/badge/Object_Detection-Fire_Smoke_Detection_Project-blue"/> 
   
-<a href="https://github.com/Jsonseok/Naver_Webtoon_Image_Classification"><img src="https://img.shields.io/badge/Image_Classification-Naver_Webtoon_Image_Classification-blue"/>
-
-
+<a href="https://github.com/Jsonseok/Jeju_Dialect_Translation"><img src="https://img.shields.io/badge/NLP-Jeju_Dialect_Translation-blue"/>  
+  
+<a href="https://github.com/Jsonseok/Predict_Metastasis_of_Breast_Cancer"><img src="https://img.shields.io/badge/Multi_Modal-Predict_Metastasis_of_Breast_Cancer-blue"/> 
+  
+<a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/Object_Detection-Chest_Xray_detection-blue"/>  
 
 <!--
 **Jsonseok/Jsonseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
