@@ -14,9 +14,9 @@
 
 📫 Project
 
-    | Project Title | Schedule | Task | Link | 
-    |---------------|----------|------|------|
-    |웹툰 썸네일을 이용한 장르 인식&작가 그림체 인식|2022.08.08 ~ 2022.08.19|Image Classification|[chair_naver_project](https://github.com/Jsonseok/Naver_Webtoon_Image_Classification)	|  
+| Project Title | Schedule | Task | Link | 
+|---------------|----------|------|------|
+|웹툰 썸네일을 이용한 장르 인식&작가 그림체 인식|2022.08.08 ~ 2022.08.19|Image Classification|[chair_naver_project](https://github.com/Jsonseok/Naver_Webtoon_Image_Classification)	|  
 <!--
 **Jsonseok/Jsonseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
