@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white">
 
 📫 Project
+<a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/Object Detection-Chest X-ray Detection-blue"/>
 
 | Project Title | Schedule | Task | Link | 
 |---------------|----------|------|------|
@@ -27,7 +28,9 @@
 |제주 방언 번역기|2022.09.02 ~ 2022.09.20|NLP|[Jeju_Dialect_Translation](https://github.com/Jsonseok/Jeju_Dialect_Translation)|
 |유방암의 임파선 전이 예측 Ai|2022.10.17 ~ 2022.11.28|Multi Modal, Image Classification, Tabular Classification|[Predict_Metastasis_of_Breast_Cancer](https://github.com/Jsonseok/Predict_Metastasis_of_Breast_Cancer)|
 |Chest X-ray Detection|2022.11.30 ~ 2022.12.23|Object Detection|<a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/CV-Object Detection-blue"/> |
-<a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/Object Detection-Chest X-ray Detection-blue"/>
+
+
+
 <!--
 **Jsonseok/Jsonseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
