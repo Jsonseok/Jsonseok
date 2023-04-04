@@ -1,6 +1,3 @@
-![Jsonseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsonseok&show_icons=trueshow_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsonseok&layout=compact&theme=tokyonight)
-
 🌱 **Career**
 
 - 2022.06 ~ 2022.12 Alpaco 빅데이터기반 딥러닝 부트캠프
@@ -31,6 +28,9 @@
   
 <a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/Object_Detection-Chest_Xray_detection-blue"/>  
 
+![Jsonseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsonseok&show_icons=trueshow_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsonseok&layout=compact&theme=tokyonight)
+  
 <!--
 **Jsonseok/Jsonseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
