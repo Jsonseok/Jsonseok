@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white">
 
 📫 Project
-
+<a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/CV-Object Detection-blue"/> 
 | Project Title | Schedule | Task | Link | 
 |---------------|----------|------|------|
 |웹툰 썸네일을 이용한 장르 인식&작가 그림체 인식|2022.08.08 ~ 2022.08.19|Image Classification|[Naver_Webtoon_Image_Classification](https://github.com/Jsonseok/Naver_Webtoon_Image_Classification)|  
