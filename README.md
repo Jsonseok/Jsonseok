@@ -1,4 +1,5 @@
-
+![Jsonseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsonseok&show_icons=trueshow_icons=true&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsonseok&layout=compact&theme=tokyonight)
 
 🌱 **Career**
 
