@@ -20,16 +20,7 @@
 
 📫 Project
 
-<a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/Object_Detection-Chest_Xray_detection-blue"/><a href="https://github.com/Jsonseok/Predict_Metastasis_of_Breast_Cancer"><img src="https://img.shields.io/badge/Multi_Modal-Predict_Metastasis_of_Breast_Cancer-blue"/>
-
-
-| Project Title | Schedule | Task | Link | 
-|---------------|----------|------|------|
-|웹툰 썸네일을 이용한 장르 인식&작가 그림체 인식|2022.08.08 ~ 2022.08.19|Image Classification|[Naver_Webtoon_Image_Classification](https://github.com/Jsonseok/Naver_Webtoon_Image_Classification)|  
-|연기 감지를 통한 화재 예측 AI 경보 시스템|2022.08.19 ~ 2022.09.02|Object Detection|[Fire_Smoke_Detection_Project](https://github.com/Jsonseok/Fire-Smoke_Detection_Project)|
-|제주 방언 번역기|2022.09.02 ~ 2022.09.20|NLP|[Jeju_Dialect_Translation](https://github.com/Jsonseok/Jeju_Dialect_Translation)|
-|유방암의 임파선 전이 예측 Ai|2022.10.17 ~ 2022.11.28|Multi Modal, Image Classification, Tabular Classification|[Predict_Metastasis_of_Breast_Cancer](https://github.com/Jsonseok/Predict_Metastasis_of_Breast_Cancer)|
-
+<a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/Object_Detection-Chest_Xray_detection-blue"/>  <a href="https://github.com/Jsonseok/Predict_Metastasis_of_Breast_Cancer"><img src="https://img.shields.io/badge/Multi_Modal-Predict_Metastasis_of_Breast_Cancer-blue"/>  <a href="https://github.com/Jsonseok/Jeju_Dialect_Translation"><img src="https://img.shields.io/badge/NLP-Jeju_Dialect_Translation-blue"/>  <a href="https://github.com/Jsonseok/Fire-Smoke_Detection_Project"><img src="https://img.shields.io/badge/Object_Detection-Fire_Smoke_Detection_Project-blue"/>  <a href="https://github.com/Jsonseok/Naver_Webtoon_Image_Classification"><img src="https://img.shields.io/badge/Image_Classification-Naver_Webtoon_Image_Classification-blue"/>
 
 
 
