@@ -20,7 +20,7 @@
 
 📫 Project
 
-<a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/Object_Detection-Chest_X-ray_Detection-blue"/>
+<a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/Object_Detection-Chest_Xray_detection-blue"/>
 
 
 | Project Title | Schedule | Task | Link | 
