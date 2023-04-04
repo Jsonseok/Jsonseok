@@ -28,6 +28,8 @@
   
 <a href="https://github.com/Jsonseok/Chest_X-ray_Detection"><img src="https://img.shields.io/badge/Object_Detection-Chest_Xray_detection-blue"/>  
 
+🎓 Github Status 
+  
 ![Jsonseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jsonseok&show_icons=trueshow_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jsonseok&layout=compact&theme=tokyonight)
   
